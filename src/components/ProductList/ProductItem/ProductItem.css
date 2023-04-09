@@ -9,8 +9,9 @@
     width: 100%;
     background: lightgray;
     height: 100px;
-    margin: 0 auto;
+   
     background: var(--tg-theme-button-color);
+margin-bottom: 53px;
 }
 
 .description{
@@ -26,7 +27,7 @@
     width: 100%;
     color: rgb(0, 42, 255);
     font-family: 'Courier';
-    font-size: x-large;
+    font-size: 14px;
 }
 
 .price{
@@ -41,7 +42,8 @@
     color: rgb(0, 0, 0);
     font-family: Tahoma;
     font-size: larger;
-}
+}   
 .photo{
     width: 100px;
+    
 }
